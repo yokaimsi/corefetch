@@ -1,9 +1,6 @@
 <h1 align="center"> corefetch</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/corefetch/main/assets/preview.png" width="500">
-</p>
-<p align="center">
-  <b>A powerful and fast system insights CLI tool with Sharingan ASCII style, inspired by neofetch and metafetch.</b><br>
+  <b>A powerful and fast system insights CLI tool, inspired by neofetch and metafetch.</b><br>
   <code>corefetch</code> gives you elegant, detailed information about your machine in seconds.
 </p>
 
@@ -59,3 +56,54 @@ Status:
   Temperature: 45.2°C    
   Load Avg: 0.85, 1.23, 1.45    
   Processes: 342    
+```
+
+---
+
+###  Installation
+
+Install the package via **pip**:
+
+```bash
+pip install corefetch
+```
+
+Run it:
+
+```bash
+corefetch
+```
+
+---
+
+###  Supported Platforms
+
+- Linux 🐧
+- macOS 🍎
+- Windows 🪟
+
+---
+
+###  Development
+
+Clone the repo:
+
+```bash
+git clone https://github.com/yourusername/corefetch
+cd corefetch
+python corefetch.py
+```
+
+---
+
+###  License
+
+[MIT License](LICENSE)
+
+---
+
+###  Credits
+
+Inspired by:  
+- [neofetch](https://github.com/dylanaraps/neofetch)  
+- [metafetch](https://github.com/volksgeistt/metafetch)
